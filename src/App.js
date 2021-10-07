@@ -27,7 +27,7 @@ const App = () => {
     <div className="computers-app">
       <div className="add-new-Computer-section">
         <div>Add new Computer:</div>
-        <div>Currently this function is not working</div>
+        <div>Currently this function is not working!!!!!</div>
       </div>
       <div className="computers-container">
         <h2>Computers</h2>
